@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AuthorsConfig(AppConfig):
+class CategoriesConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "apps.authors"
+    name = "apps.categories"

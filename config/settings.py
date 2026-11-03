@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "apps.authors.apps.AuthorsConfig",
     "apps.core.apps.CoreConfig",
+    "apps.categories.apps.CategoriesConfig",
 ]
 
 MIDDLEWARE = [
